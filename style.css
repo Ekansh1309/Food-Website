@@ -78,7 +78,7 @@
 }
 #home::before{
     content: "";
-    background-image: url('/WebDevelopment/Projects/img/4K-Food-Wallpaper-3840x2160-1.jpg') ;
+    background-image: url('/img/4K-Food-Wallpaper-3840x2160-1.jpg') ;
     
     position: absolute;    /*  */
     height: 140%;
@@ -187,7 +187,7 @@
     content:"";
     position: absolute;
    
-    background-image: url('/WebDevelopment/Projects/img/pngtree-summer-atmosphere-restaurant-supermarket-vegetable-psd-layered-promotion-background-picture-image_1098004.jpg');
+    background-image: url('/img/pngtree-summer-atmosphere-restaurant-supermarket-vegetable-psd-layered-promotion-background-picture-image_1098004.jpg');
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -223,7 +223,7 @@
     width: 100%;
     z-index: -1;
     opacity: 0.9;
-    background: url('/WebDevelopment/Projects/img/contact-us.webp') no-repeat center center/cover ;
+    background: url('/img/contact-us.webp') no-repeat center center/cover ;
 }
 
 /* footer */ 
